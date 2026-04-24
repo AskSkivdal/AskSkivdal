@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome
+My make is Ask, I am a software engineer from Norway. I work as a GIS developer / data analyst.
 
-<!--
-**AskSkivdal/AskSkivdal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
+I specialize in these languages.
+ - Rust
+ - Python
+ - Typescript
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Support me
+Any support would be greatly appriciated
+
+![0x546a91CDa685657338E9402A67811dC520ab00A5](https://img.shields.io/badge/ETH-0x546a91CDa685657338E9402A67811dC520ab00A5-gray?labelColor=blue)
+
+![bc1q2nydjmdd8a6mrm6kcypu25zne2fnvm03dmsm77](https://img.shields.io/badge/BTC-bc1q2nydjmdd8a6mrm6kcypu25zne2fnvm03dmsm77-gray?labelColor=yellow)
